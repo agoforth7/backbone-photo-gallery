@@ -1,0 +1,45 @@
+.image-box {
+  width: 75%;
+  padding: 2em;
+  margin: 0 auto; }
+
+.image-box > img {
+  width: 100%; }
+
+label.likes {
+  display: inline-block;
+  margin-top: 1em; }
+
+.delete {
+  margin-top: 1em;
+  float: right; }
+
+@font-face {
+  font-family: 'BerkshireSwash';
+  src: url("../assets/fonts/BerkshireSwash-Regular.ttf"); }
+*, *:before, *:after {
+  box-sizing: border-box; }
+
+body {
+  background-color: #1A2857;
+  color: #BFFF9C; }
+
+button {
+  background-color: #FCB43A;
+  color: #1A2857;
+  border: 1px solid #fff;
+  padding: .25em .5em; }
+
+.title {
+  font-family: 'BerkshireSwash', serif;
+  font-size: 6em;
+  text-align: center;
+  text-shadow: 3px 3px 1px #000; }
+
+.form-box {
+  text-align: center; }
+
+#img-input {
+  margin: 2em .5em 0 2em; }
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,19 @@
+.image-box {
+	width: 75%;
+	padding: 2em;
+	margin: 0 auto;
+}
+
+.image-box > img {
+	width: 100%;
+}
+
+label.likes {
+	display: inline-block;
+	margin-top: 1em;
+}
+
+.delete {
+	margin-top: 1em;
+	float: right;
+}
